@@ -4,7 +4,7 @@
 >`Fork` 自 [JsonMcr](https://github.com/JsonMcr)/[JsonMcr.github.io](https://github.com/JsonMcr/JsonMcr.github.io) .  
 
 **修订**  
-根据新版本的[ IUPAC 化学元素周期表](http://www.chemsoc.org.cn/library/a2611.html)对网页进行了修订，同时对格式进行了调整、对文字进行了编辑、对交互进行了优化。  
+根据新版本的 [IUPAC 化学元素周期表](http://www.chemsoc.org.cn/library/a2611.html) 对网页进行了修订，同时对格式进行了调整、对文字进行了编辑、对交互进行了优化。  
 
 **Demo**  
 <https://witcater.win/periodic-table/>  
